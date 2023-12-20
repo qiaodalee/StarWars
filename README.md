@@ -6,7 +6,7 @@ use java IDE.
 
 ## Play game  
 Destroy as many of the enemy's fires as you can.
-
+  
 Press the 'Up' key to move upward.  
 Press the 'Down' key to move downward.  
 Press the 'Left' key to move leftward.  
