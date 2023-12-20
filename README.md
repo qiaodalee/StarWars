@@ -1,4 +1,5 @@
 # Simple Game of StarWars
+Implement by Java with Java Swing
 
 ## Run and compile
 use java IDE
