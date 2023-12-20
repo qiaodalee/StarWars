@@ -4,7 +4,8 @@ Implement by Java with Java Swing.
 ## Run and compile
 use java IDE.
 
-## Play game
+## Play game  
+
 Destroy as many of the enemy's fires as you can.  
 Press the 'Up' key to move upward.  
 Press the 'Down' key to move downward.  
