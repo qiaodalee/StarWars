@@ -11,4 +11,4 @@ Press the 'Left' key to move leftward
 Press the 'Right' key to move rightward  
 Press the 'CTRL' key to fire
 
-![image]
+![image](https://github.com/qiaodalee/StarWars/blob/main/game.png)
